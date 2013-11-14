@@ -4,7 +4,7 @@
   <title><![CDATA[Category: agile development | Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/categories/agile-development/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-14T14:10:36-08:00</updated>
+  <updated>2013-11-14T14:46:52-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -18,14 +18,18 @@
     <link href="http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce/"/>
     <updated>2013-11-13T12:47:00-08:00</updated>
     <id>http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce</id>
-    <content type="html"><![CDATA[<p>Awesome presentation last night by Carbon Five&rsquo;s <a href="http://twitter.com/chemphill">Courtney Hemphill</a> for BayALN at Adobe&rsquo;s offices in San Francisco.</p>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/custom/posts/leanux-tonic-bottles.png" title="&lsquo;LeanUX and Agile Tonic&rsquo; &lsquo;LeanUX and Agile Tonic&rsquo;" ></p>
+
+<p>Awesome presentation last night by Carbon Five&rsquo;s <a href="http://twitter.com/chemphill">Courtney Hemphill</a> for BayALN at Adobe&rsquo;s offices in San Francisco.</p>
 
 <p>This preso is really magic sauce for those like me who have struggled to get design integrated an Agile development workflow.</p>
 
 <!-- more -->
 
 
-<p>At a recent Noisebridge/Rails School training on Agile estimation, integration of design into Agile sprints was the first audience question. A common answer seems to be contained in a <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">May 2007 whitepaper by Autodesk&rsquo;s Desiree Sy</a>, which suggests a staggered workflow with designers and developers on separate tracks:</p>
+<p>At a recent Noisebridge/Rails School training on Agile estimation, integration of design into Agile sprints was the first audience question.</p>
+
+<p>A common approach seems to be contained in a <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">May 2007 whitepaper by Autodesk&rsquo;s Desiree Sy</a>, which suggests a staggered workflow with designers and developers on separate tracks:</p>
 
 <p><img src="/images/custom/posts/developer-designer-different-tracks.jpg"></p>
 
