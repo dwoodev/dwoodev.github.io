@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/categories/meetup/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-13T19:56:58-08:00</updated>
+  <updated>2013-11-13T20:08:58-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -32,6 +32,8 @@
 
 <blockquote><p>I strongly disagree with the answer provided by Jason. The whole point of Scrum is to get rid of the method where designers first &ldquo;do their thing&rdquo; and then go on to other stuff. That&rsquo;s completely and 100% against all lean / Scrum principles!</p></blockquote>
 
+<p>Well then how else could you structure your workflow?</p>
+
 <h2>Enter Mixing LeanUX and Agile</h2>
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/26796266" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
@@ -41,7 +43,7 @@
 
 <p>The whole deck is worth a review &mdash; do yourself a favor and take 10 minutes to at least glance through it right now.  A primary takeaway is the stepping away from a traditional design team and pixel-perfect design up front, and relying on more communicative, integrated, cross-functional teams.</p>
 
-<p><strong>Also mentioned in the talk but not in the deck:</strong></p>
+<h3>Also mentioned in the talk but not in the deck</h3>
 
 <ul>
 <li>They typically run 1-week sprints.</li>
@@ -69,11 +71,10 @@
 <li>They use Rails Cucumber-style Behavior-Driven Design (BDD) language to capture stories.</li>
 <li>They setup strong story acceptance criteria.</li>
 <li>They&rsquo;ve used this methodology for things that don&rsquo;t seem inherently design-oriented, like a SAAS product.</li>
-<li>The impression I had is they were primarily working on &ldquo;green field&rdquo; projects so they didn&rsquo;t have to deal with legacy (and probably the associated politics).</li>
 </ul>
 
 
-<p><strong>It seems that the Carbon 5 method requires a fair amount of prefacing:</strong></p>
+<h2>It seems that the Carbon 5 method requires a fair amount of prefacing</h2>
 
 <ul>
 <li>Client needs to drink the kool-aid.  Where do they find such clients and how do they on-board them?</li>
@@ -82,19 +83,19 @@
 </ul>
 
 
-<p><strong>Some questions I didn&rsquo;t have the opportunity to ask:</strong></p>
-
-<h1>* In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate spikes</a>.  True?</h1>
+<h2>Some questions I didn&rsquo;t have the opportunity to ask</h2>
 
 <ul>
+<li>In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate spikes</a>.  True?</li>
 <li>In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate</a>.</li>
-<li>Lean Marketing calls for tools like split testing of a product.  Often, the trend of a preferred product feature will not emerge until there&rsquo;s sufficient sample, which could take wweks.  How does the methodology account for that?</li>
+<li>Lean Marketing calls for tools like split testing of a product.  Often, the trend of a preferred product feature will not emerge until there&rsquo;s a sufficient audience sample, which could take weeks.  How does the methodology account for that?</li>
+<li>The impression I had is they were primarily working on &ldquo;green field&rdquo; projects so they didn&rsquo;t have to deal with legacy (and probably the associated company politics).  Does this method lend itself more to startup clients, less so enterprise clients?</li>
 </ul>
 
 
 <p>In any case, I&rsquo;m intrigued by the continued innovation and creativity of Carbon 5 and to have more of a conversation with leaders in the LeanUX-Agile community in SF.</p>
 
-<p><strong>What should you do now?</strong></p>
+<h2>What should you do now?</h2>
 
 <ul>
 <li>If you&rsquo;re Courtney Hemphill and have read this far, please post to the comments below and dispell any misunderstandings or illusions I have.</li>
@@ -111,6 +112,8 @@
 </li>
 </ul>
 
+
+<p>Thanks for reading, and please comment below.</p>
 ]]></content>
   </entry>
   
