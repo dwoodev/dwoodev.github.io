@@ -4,7 +4,7 @@
   <title><![CDATA[Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-13T13:01:44-08:00</updated>
+  <updated>2013-11-13T17:49:32-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -12,96 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[LeanUX and Agile - Playing Nice Together]]></title>
-    <link href="http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-playing-nice-together/"/>
-    <updated>2013-11-13T12:47:00-08:00</updated>
-    <id>http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-playing-nice-together</id>
-    <content type="html"><![CDATA[<iframe src="http://www.slideshare.net/slideshow/embed_code/26796266" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
-
-
-<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/carbonfive/flowcon-mixing-lean-ux-agile-development-26796266" title="Flowcon - Mixing Lean UX &amp; Agile Development" target="_blank">Flowcon &ndash; Mixing Lean UX &amp; Agile Development</a> </strong> from <strong><a href="http://www.slideshare.net/carbonfive" target="_blank">Carbon Five</a></strong> </div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My New Post]]></title>
-    <link href="http://dwoodev.github.io/blog/2013/10/12/my-new-post/"/>
-    <updated>2013-10-12T16:47:00-07:00</updated>
-    <id>http://dwoodev.github.io/blog/2013/10/12/my-new-post</id>
-    <content type="html"><![CDATA[<h1>Something cool</h1>
-
-<p>This is still a test.  It&rsquo;s starting to resemble something I might want to post :&ndash;)</p>
-
-<blockquote class="twitter-tweet"><p>(2/3) If you get stuck, look for &quot;pressure points&quot;&#8211;scenes you&#39;ve written that can be unpacked, unraveled… (2/3) <a href="https://twitter.com/search?q=%23NaNoCoach&amp;src=hash">#NaNoCoach</a></p>&mdash; NaNoWriMo (@NaNoWriMo) <a href="https://twitter.com/NaNoWriMo/statuses/397549199153065984">November 5, 2013</a></blockquote>
-
-
-<script async src="http://dwoodev.github.io//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>Cool, you can directly insert the twitter embed!</p>
-
-<p>now how about some code?</p>
-
-<p>An additional test.  More.  Yet more.</p>
-
-<p>or a link[<a href="http://www.google.com">http://www.google.com</a>]</p>
-
-<p><img class="right" src="http://dwoodev.github.io/images/dwoodwoo/angularbroken.jpg" title="Some Picture" ></p>
-
-<!-- -*- html -*- -->
-
-<div class="imgpopup screen">
-  <div class="caption">Click the image for a larger view.</div>
-  <a href='javascript:void(0)' style="text-decoration: none" id="image-1">
-    <img src="http://dwoodev.github.io/images/dwoodwoo/angularbroken.jpg"
-         width="421" height="350"
-         alt="Click me."/>
-  </a>
-  <div id="image-dialog-1" style="display:none">
-    <img src="http://dwoodev.github.io/images/dwoodwoo/angularbroken.jpg"
-         width="841" height="700"/>
-    <br clear="all"/>
-  </div>
-</div>
-<script type="text/javascript">
-  jQuery(document).ready(function() {
-    jQuery("#image-dialog-1").hide();
-    jQuery("#image-dialog-1").dialog({
-      autoOpen:  false,
-      modal:     true,
-      draggable: false,
-      minWidth:  881,
-      minHeight: 740,
-      title:     "My Big Image",
-      show:      'scale',
-      hide:      'scale'
-    });
-
-    jQuery("#image-1").click(function() {
-      jQuery("#image-dialog-1").dialog('open');
-    });
-
-  });
-</script>
-<div class="illustration print">
-  <img src="http://dwoodev.github.io/images/dwoodwoo/angularbroken.jpg" width="841" height="700"/>
-</div>
-
-
-
-<h1>More like this!</h1>
-
-<p><em>Essence</em> is the beginning of <em>understanding</em>.</p>
-
-<blockquote><p>This should be a blockquote.  woohoo!  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, temporibus, tenetur, quos, ipsum inventore vel aliquid perferendis ducimus autem laboriosam aspernatur provident voluptates id ab obcaecati odit possimus. Rerum, quod, iusto sunt ut asperiores alias perspiciatis saepe doloremque nemo minima neque nihil odio aliquid vero fugiat eum reprehenderit dolores architecto nostrum harum eos incidunt esse illo quo delectus porro officiis cupiditate. Eligendi, consequuntur, ducimus, quia iure repellendus recusandae sequi neque beatae fugit explicabo optio ut rerum dolores autem debitis facere cupiditate quibusdam blanditiis voluptas earum dignissimos velit libero magni officia voluptatum odio nam facilis pariatur ipsam minus. Ad, reiciendis, tenetur.</p></blockquote>
-
-<p>tag1
-:   thing</p>
-
-<p>dennis!</p>
-]]></content>
-  </entry>
   
 </feed>
