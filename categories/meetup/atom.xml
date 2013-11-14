@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetup | Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/categories/meetup/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-13T20:16:09-08:00</updated>
+  <updated>2013-11-14T10:17:54-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -14,13 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[LeanUX and Agile - Magic Workflow Sauce?]]></title>
+    <title type="html"><![CDATA[LeanUX and Agile - Magic Workflow Tonic?]]></title>
     <link href="http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce/"/>
     <updated>2013-11-13T12:47:00-08:00</updated>
     <id>http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce</id>
     <content type="html"><![CDATA[<p>Awesome presentation last night by Carbon Five&rsquo;s <a href="http://twitter.com/chemphill">Courtney Hemphill</a> for BayALN at Adobe&rsquo;s offices in San Francisco.</p>
 
 <p>This preso is really magic sauce for those like me who have struggled to get design integrated an Agile development workflow.</p>
+
+<!-- more -->
+
 
 <p>At a recent Noisebridge/Rails School training on Agile estimation, integration of design into Agile sprints was the first audience question. A common answer seems to be contained in a <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">May 2007 whitepaper by Autodesk&rsquo;s Desiree Sy</a>, which suggests a staggered workflow with designers and developers on separate tracks:</p>
 
@@ -41,7 +44,9 @@
 
 <p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/carbonfive/flowcon-mixing-lean-ux-agile-development-26796266" title="Flowcon - Mixing Lean UX &amp; Agile Development" target="_blank">Flowcon &ndash; Mixing Lean UX &amp; Agile Development</a> </strong> from <strong><a href="http://www.slideshare.net/carbonfive" target="_blank">Carbon Five</a></strong> </div></p>
 
-<p>The whole deck is worth a review &mdash; do yourself a favor and take 10 minutes to at least glance through it right now.  A primary takeaway is the stepping away from a traditional design team and pixel-perfect design up front, and relying on more communicative, integrated, cross-functional teams.</p>
+<p>The whole deck is worth a review &mdash; do yourself a favor and take 10 minutes to at least glance through it right now.</p>
+
+<p>And though it may not be magic, it might be a tonic:  Don&rsquo;t toss over the fence.  A primary takeaway is the stepping away from a traditional design team and pixel-perfect design up front, and relying on more communicative, integrated, cross-functional teams.</p>
 
 <h3>Also mentioned in the talk but not in the deck</h3>
 
@@ -87,7 +92,6 @@
 
 <ul>
 <li>In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate spikes</a>.  True?</li>
-<li>In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate</a>.</li>
 <li>Lean Marketing calls for tools like split testing of a product.  Often, the trend of a preferred product feature will not emerge until there&rsquo;s a sufficient audience sample, which could take weeks.  How does the methodology account for that?</li>
 <li>The impression I had is they were primarily working on &ldquo;green field&rdquo; projects so they didn&rsquo;t have to deal with legacy (and probably the associated company politics).  Does this method lend itself more to startup clients, less so enterprise clients?</li>
 </ul>
