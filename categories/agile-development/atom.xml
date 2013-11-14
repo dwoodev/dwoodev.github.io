@@ -4,7 +4,7 @@
   <title><![CDATA[Category: agile development | Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/categories/agile-development/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-13T18:57:28-08:00</updated>
+  <updated>2013-11-13T19:49:43-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -18,17 +18,19 @@
     <link href="http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce/"/>
     <updated>2013-11-13T12:47:00-08:00</updated>
     <id>http://dwoodev.github.io/blog/2013/11/13/leanux-and-agile-magic-workflow-sauce</id>
-    <content type="html"><![CDATA[<p>Awesome presentation last night by Carbon Five&rsquo;s <a href="twitter.com/chemphill">Courtney Hemphill</a> for BayALN at Adobe&rsquo;s offices in San Francisco.</p>
+    <content type="html"><![CDATA[<p>Awesome presentation last night by Carbon Five&rsquo;s <a href="http://twitter.com/chemphill">Courtney Hemphill</a> for BayALN at Adobe&rsquo;s offices in San Francisco.</p>
 
-<p>This preso is really magic sauce for those like me who have struggled to get design integrated an Agile development workflow.  The issue has been debated on <a href="http://stackoverflow.com/questions/658836/how-do-you-apply-scrum-to-the-design-part-of-web-development">stackoverflow</a>, with the top response earning the rejoinder:</p>
+<p>This preso is really magic sauce for those like me who have struggled to get design integrated an Agile development workflow.</p>
+
+<p>At a recent Noisebridge/Rails School training on Agile estimation, integration of design into Agile sprints was the first audience question. A common answer seems to be contained in a <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">May 2007 whitepaper by Autodesk&rsquo;s Desiree Sy</a>, which suggests a staggered workflow with designers and developers on separate tracks:</p>
+
+<p><img src="/images/custom/posts/developer-designer-different-tracks.jpg"></p>
+
+<p>I grant that this type of workflow could work, and probably beats the traditional waterfall by a longshot.  But in having been participant in this sort of structure in previous workgroups, I can report it feels in need of improvement.  Designers were not pairing with developers due to this structure and cultural walls went up.  Two weeks sprint cycles became de facto one month sprints, pushing risk up.  The separation of design was often derided as &ldquo;tossing over the fence&rdquo; &mdash; and is in practice a mini-waterfall: the exact thing we were trying to evolve from by adopting Agile.</p>
+
+<p>The issue has been debated on <a href="http://stackoverflow.com/questions/658836/how-do-you-apply-scrum-to-the-design-part-of-web-development">stackoverflow</a>, with the top response proposing the staggered workflow of the whitepaper.  This earned the rejoinder:</p>
 
 <blockquote><p>I strongly disagree with the answer provided by Jason. The whole point of Scrum is to get rid of the method where designers first &ldquo;do their thing&rdquo; and then go on to other stuff. That&rsquo;s completely and 100% against all lean / Scrum principles!</p></blockquote>
-
-<p>  At a recent Noisebridge/Rails School training on Agile estimation, integration of design was the first question that came from the audience. A <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">whitepaper by Autodesk&rsquo;s Desiree Sy</a> suggests a staggered workflow with designers and developers on separate tracks:</p>
-
-<p><img src="/images/custom/posts/developer-designer-different-tracks.jpg" title="Can you read this" ></p>
-
-<p>I grant that this type of workflow could work, and probably beats the traditional waterfall by a longshot.  But in having been participant in this sort of structure in previous work, I can report it feels in need of improvement.  The separation of design was often derided as &ldquo;tossing over the fence&rdquo; &mdash; and is in practice, a mini-waterfall, the exact thing we were trying to evolve from by adopting Agile.  Designers were not pairing with developers due to this structure and cultural walls went up.  Two weeks sprint cycles became de facto one month sprints, pushing risk up.</p>
 
 <h2>Enter Mixing LeanUX and Agile</h2>
 
@@ -37,7 +39,7 @@
 
 <p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/carbonfive/flowcon-mixing-lean-ux-agile-development-26796266" title="Flowcon - Mixing Lean UX &amp; Agile Development" target="_blank">Flowcon &ndash; Mixing Lean UX &amp; Agile Development</a> </strong> from <strong><a href="http://www.slideshare.net/carbonfive" target="_blank">Carbon Five</a></strong> </div></p>
 
-<p>The whole deck is worth a review &mdash; do yourself a favor and take 10 minutes to at least glance through it right now.  A primary takeaway is the stepping away from a traditional design team and pixel-perfect design up front, and relying on more communicative, cross-functional teams.</p>
+<p>The whole deck is worth a review &mdash; do yourself a favor and take 10 minutes to at least glance through it right now.  A primary takeaway is the stepping away from a traditional design team and pixel-perfect design up front, and relying on more communicative, integrated, cross-functional teams.</p>
 
 <p><strong>Also mentioned in the talk but not in the deck:</strong></p>
 
@@ -46,7 +48,7 @@
 <li>Smallest team is 3 — dev, designer, product manager/engagement manager.</li>
 <li>They don’t have a dedicated scrum master.</li>
 <li>They do a lot of <strong>pairing and joint white-board</strong> to avoid &ldquo;over the fence&rdquo; issues.</li>
-<li>They use a <strong>design charrette</strong> (<a href="http://www.questionablemethods.com/2011/11/design-charrette.html">http://www.questionablemethods.com/2011/11/design-charrette.html</a> — that’s the name of the blog&hellip;it’s not actually a questionable method&hellip;).</li>
+<li>They use a <strong>design charrette</strong> (<a href="http://www.questionablemethods.com/2011/11/design-charrette.html">http://www.questionablemethods.com/2011/11/design-charrette.html</a> — that’s the name of the blog&hellip;it’s not actually a questionable method&hellip; &mdash; actually, <a href="http://www.twitter.com/mblongii">Mike Long</a> does a great intro to the charrette at his San Francisco LeanUX meetup.</li>
 <li>No traditional heavy-wireframing or pixel-perfect details.  Sketch it on whiteboards.
 (I&rsquo;m assumping they make the Lean Startup assumption that functionality tends to trump prematurely optimized design, and focus on precision in design later)</li>
 <li>To enable velocity, they have a design AND development vocabulary ready to go.</li>
@@ -66,14 +68,17 @@
 <li>They involve the customer in <strong>hybrid prototyping</strong> where they use cutouts of the existing product UI and have the customer help with the design.</li>
 <li>They use Rails Cucumber-style Behavior-Driven Design (BDD) language to capture stories.</li>
 <li>They setup strong story acceptance criteria.</li>
+<li>They&rsquo;ve used this methodology for things that don&rsquo;t seem inherently design-oriented, like a SAAS product.</li>
+<li>The impression I had is they were primarily working on &ldquo;green field&rdquo; projects so they didn&rsquo;t have to deal with legacy (and probably the associated politics).</li>
 </ul>
 
 
 <p><strong>It seems that the Carbon 5 method requires a fair amount of prefacing:</strong></p>
 
 <ul>
-<li>Client needs to drink the kool-aid</li>
-<li>Traditional design culture is pushed aside a bit (&ldquo;Get out of the deliverables business&rdquo; is a LeanUX mantra.  More on this in other posts&hellip;)</li>
+<li>Client needs to drink the kool-aid.  Where do they find such clients and how do they on-board them?</li>
+<li>Traditional design culture is pushed aside a bit (&ldquo;Get out of the deliverables business&rdquo; is a LeanUX mantra.  More on this in other posts&hellip;).</li>
+<li>In acceptance criteria, how much is satisfying the client&rsquo;s vision vs. satisfying the client&rsquo;s CUSTOMER&rsquo;s vision?</li>
 </ul>
 
 
@@ -82,6 +87,26 @@
 <ul>
 <li>In an engagement of this sort, does the team require a <a href="http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/">design spike</a>?  It seems possible to steer into a local max with fast, iterative feedback.  Also, <a href="http://scaledagileframework.com/spikes/">story complexity may necesitate</a>.</li>
 <li>Lean Marketing calls for tools like split testing of a product.  Often, the trend of a preferred product feature will not emerge until there&rsquo;s sufficient sample, which could take wweks.  How does the methodology account for that?</li>
+</ul>
+
+
+<p>In any case, I&rsquo;m intrigued by the continued innovation and creativity of Carbon 5 and to have more of a conversation with leaders in the LeanUX-Agile community in SF.</p>
+
+<p><strong>What should you do now?</strong></p>
+
+<ul>
+<li>If you&rsquo;re Courtney Hemphill and have read this far, please post to the comments below and dispell any misunderstandings or illusions I have.</li>
+<li>If you&rsquo;re somebody else who works at Carbon 5 or another Lean/Agile group, I&rsquo;d like to hear about issues of adoption or problems with these practices.</li>
+<li>If you work at Autodesk, I&rsquo;d like to know if you&rsquo;re using the methodology explained in the white paper and whether it&rsquo;s been successful or not.</li>
+<li>If you work at different design, product dev firm or agency, I&rsquo;d like to hear what your methodology is and how it compares.</li>
+<li>If you&rsquo;re not already familiar with LeanUX, or have light familiarity with it (&ldquo;oh yeah, I&rsquo;ve heard of that before&hellip;&rdquo;), check out this classic <a href="http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/">Smashing Magazine LeanUX article</a> .</li>
+<li>A couple of O'Reilly books on LeanUX have recently been published:
+
+<ul>
+<li><a href="http://www.amazon.com/Lean-UX-Applying-Principles-Experience-ebook/dp/B0074KA0A4/ref=sr_1_1?ie=UTF8&qid=1384398723&sr=8-1&keywords=leanux">Lean UX  Applying Principles to Improve User Experience</a>, and</li>
+<li><a href="http://www.amazon.com/UX-Lean-Startups-Experience-Research-ebook/dp/B00CMFJZ1Q/ref=sr_1_sc_1?ie=UTF8&qid=1384398723&sr=8-1-spell&keywords=leanux">UX for Lean Startups: Faster, Smarter User Experience Research and Design</a></li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
