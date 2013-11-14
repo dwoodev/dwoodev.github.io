@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dennis Woo]]></title>
-  <link href="http://dwoodev.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: leanux | Dennis Woo]]></title>
+  <link href="http://dwoodev.github.io/categories/leanux/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
   <updated>2013-11-13T17:54:03-08:00</updated>
   <id>http://dwoodev.github.io/</id>
@@ -22,7 +22,7 @@
 
 <p>This preso is really magic sauce for those like me who have struggled to get design integrated into the agile development workflow.  The issue has been debated on <a href="http://stackoverflow.com/questions/658836/how-do-you-apply-scrum-to-the-design-part-of-web-development">stackoverflow</a>.  At a recent Noisebridge training on Agile estimation, integration of design was the first question that came from the audience. A <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.pdf">whitepaper by Autodesk&rsquo;s Desiree Sy</a> suggests a staggered workflow with designers and developers on separate tracks:</p>
 
-<p><img src="http://dwoodev.github.io/images/custom/posts/developer-designer-different-tracks.jpg" title="Can you read this" ></p>
+<p><img src="/images/custom/posts/developer-designer-different-tracks.jpg" title="Can you read this" ></p>
 
 <p>I&rsquo;ve been participant in this sort of structure in previous work and it&rsquo;s not entirely likeable.  The process of separated design was often derided as &ldquo;tossing over the fence&rdquo; &mdash; and was in practice, a mini-waterfall, the exact thing we were trying to get away from in adopting Agile.  Designers were not pairing with developers due to this structure and cultural walls went up.  Two weeks sprint cycles became de facto one month sprints, pushing risk up.</p>
 
