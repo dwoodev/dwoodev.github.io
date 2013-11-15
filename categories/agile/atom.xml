@@ -4,7 +4,7 @@
   <title><![CDATA[Category: agile | Dennis Woo]]></title>
   <link href="http://dwoodev.github.io/categories/agile/atom.xml" rel="self"/>
   <link href="http://dwoodev.github.io/"/>
-  <updated>2013-11-15T14:36:02-08:00</updated>
+  <updated>2013-11-15T14:44:51-08:00</updated>
   <id>http://dwoodev.github.io/</id>
   <author>
     <name><![CDATA[Dennis Woo]]></name>
@@ -61,7 +61,7 @@
 <li>They do a lot of <strong>pairing and joint white-board</strong> to avoid &ldquo;over the fence&rdquo; issues.</li>
 <li>They use a <strong>design charrette</strong> (<a href="http://www.questionablemethods.com/2011/11/design-charrette.html">http://www.questionablemethods.com/2011/11/design-charrette.html</a> — that’s the name of the blog&hellip;it’s not actually a questionable method&hellip; &mdash; actually, <a href="http://www.twitter.com/mblongii">Mike Long</a> does a great intro to the charrette at his San Francisco LeanUX meetup.</li>
 <li>No traditional heavy-wireframing or pixel-perfect details.  Sketch it on whiteboards.
-(I&rsquo;m assumping they make the Lean Startup assumption that functionality tends to trump prematurely optimized design, and focus on precision in design later)</li>
+(I&rsquo;m assuming C5 relies on the Lean Startup opinion that functionality tends to trump prematurely optimized design, and focus on precision in design later)</li>
 <li>To enable velocity, they have a design AND development vocabulary ready to go.</li>
 <li>They have a <strong>balanced team</strong> approach that eschews traditional designer, developer and manager roles in favor of concurrency.  In fact, it appears they&rsquo;ve just had a <a href="http://www.balancedteam.org/balancedteamsf2013">conference</a> focused on balanced teams.</li>
 <li>They have a concept of <strong>cadence</strong>, which dictates the following must-dos:
